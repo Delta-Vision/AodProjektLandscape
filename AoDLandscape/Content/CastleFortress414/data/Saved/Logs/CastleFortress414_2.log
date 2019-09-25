@@ -1,0 +1,768 @@
+﻿Log file open, 04/14/19 22:04:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CastleFortress414
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270979
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll' does not exist
+LogAudioMixer: Display: Failed to load Sound File dll
+LogAudioEditor: Display: LibSoundFile failed to load. Importing audio will not work correctly.
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-5660361
+LogInit: Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Mar 31 2019 02:05:09
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Engine.ini]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Engine.ini]
+[2019.04.14-19.04.54:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Engine.ini]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Engine.ini]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.14-19.04.54:824][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.14-19.04.54:825][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.14-19.04.54:825][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.14-19.04.54:825][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Engine.ini]
+[2019.04.14-19.04.54:825][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Engine.ini]
+[2019.04.14-19.04.54:828][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:828][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.14-19.04.54:828][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.14-19.04.54:828][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.14-19.04.54:829][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.14-19.04.54:830][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.14-19.04.54:830][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.14-19.04.54:830][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.14-19.04.54:847][  0]LogHAL: Display: Platform has ~ 8 GB [8481255424 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.04.14-19.04.54:847][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.14-19.04.54:847][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.14-19.04.54:847][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Scalability.ini]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.14-19.04.54:848][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.14-19.04.54:849][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.14-19.04.54:849][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.04.14-19.04.54:849][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/User/Desktop/CastleFortress414/data/Saved/Config/Windows/Engine.ini]
+[2019.04.14-19.04.54:849][  0]LogInit: Computer: LENOVO
+[2019.04.14-19.04.54:849][  0]LogInit: User: User
+[2019.04.14-19.04.54:849][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.14-19.04.54:849][  0]LogInit: High frequency timer resolution =2.338339 MHz
+[2019.04.14-19.04.54:849][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.14-19.04.54:849][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.14-19.04.54:849][  0]LogMemory: Process Physical Memory: 94.85 MB used, 94.85 MB peak
+[2019.04.14-19.04.54:849][  0]LogMemory: Process Virtual Memory: 89.57 MB used, 89.57 MB peak
+[2019.04.14-19.04.54:849][  0]LogMemory: Physical Memory: 2012.04 MB used,  6076.31 MB free, 8088.36 MB total
+[2019.04.14-19.04.54:849][  0]LogMemory: Virtual Memory: 4637.27 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.04.14-19.04.54:888][  0]LogInit: Using OS detected language (ru-RU).
+[2019.04.14-19.04.54:888][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.04.14-19.04.54:890][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.04.14-19.04.54:890][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.04.14-19.04.54:890][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.04.14-19.04.54:891][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.04.14-19.04.54:891][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.04.14-19.04.54:891][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.04.14-19.04.54:891][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.04.14-19.04.54:891][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.04.14-19.04.54:892][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.14-19.04.54:940][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.14-19.04.54:940][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.14-19.04.56:733][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.14-19.04.56:733][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.14-19.04.58:957][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2019.04.14-19.04.58:957][  0]LogD3D11RHI:       4055/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.14-19.04.58:967][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2019.04.14-19.04.58:967][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.14-19.04.59:087][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.14-19.04.59:087][  0]LogD3D11RHI:       0/0/4044 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.14-19.04.59:087][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.14-19.04.59:139][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.14-19.04.59:139][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.14-19.04.59:140][  0]LogWindows: EnumDisplayDevices:
+[2019.04.14-19.04.59:140][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2019.04.14-19.04.59:140][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2019.04.14-19.04.59:141][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2019.04.14-19.04.59:141][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.14-19.04.59:141][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2019.04.14-19.04.59:142][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.14-19.04.59:142][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.14-19.04.59:142][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2019.04.14-19.04.59:268][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.14-19.04.59:316][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.14-19.04.59:317][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.14-19.04.59:317][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.04.14-19.04.59:336][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.14-19.05.02:335][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.04.14-19.05.02:374][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.04.14-19.05.02:425][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.04.14-19.05.02:497][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.04.14-19.05.02:602][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.04.14-19.05.02:655][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.04.14-19.05.02:713][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.04.14-19.05.02:759][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.04.14-19.05.02:788][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.04.14-19.05.04:255][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.04.14-19.05.04:270][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.04.14-19.05.04:687][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.04.14-19.05.04:687][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.04.14-19.05.04:780][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.04.14-19.05.04:780][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.04.14-19.05.04:829][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.04.14-19.05.04:872][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.04.14-19.05.04:920][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.04.14-19.05.04:985][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.04.14-19.05.05:123][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.04.14-19.05.05:124][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.04.14-19.05.05:124][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.14-19.05.05:266][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.04.14-19.05.06:134][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/User/Desktop/CastleFortress414/data/Intermediate/Shaders/WorkingDirectory/7552/).
+[2019.04.14-19.05.06:134][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/236E79A149FD09850327C5A8471CC68B/'.
+[2019.04.14-19.05.06:142][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.14-19.05.06:143][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.14-19.05.06:143][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.14-19.05.10:045][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.14-19.05.10:992][  0]LogDerivedDataCache: Loaded boot cache 0.95s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.14-19.05.10:992][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.04.14-19.05.10:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Desktop/CastleFortress414/data/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.14-19.05.10:992][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.14-19.05.10:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Desktop/CastleFortress414/data/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.14-19.05.10:992][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.14-19.05.11:028][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.14-19.05.11:028][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.14-19.05.11:028][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.14-19.05.11:041][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.14-19.05.11:041][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.14-19.05.11:041][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.14-19.05.11:107][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.14-19.05.11:158][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.14-19.05.11:235][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.14-19.05.11:879][  0]LogAssetRegistry: FAssetRegistry took 0.0411 seconds to start up
+[2019.04.14-19.05.13:201][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.14-19.05.17:594][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.14-19.05.17:594][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.04.14-19.05.17:594][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.14-19.05.17:594][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.04.14-19.05.17:594][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.04.14-19.05.18:728][  0]LogNetVersion: CastleFortress414 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2292290772)
+[2019.04.14-19.05.28:625][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.092410 seconds
+[2019.04.14-19.05.28:663][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.04.14-19.05.28:663][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.04.14-19.05.28:663][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.14-19.05.39:885][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.14-19.05.39:934][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.14-19.05.41:543][  0]SourceControl: Source control is disabled
+[2019.04.14-19.05.41:572][  0]SourceControl: Source control is disabled
+[2019.04.14-19.05.41:872][  0]SourceControl: Source control is disabled
+[2019.04.14-19.05.41:906][  0]SourceControl: Source control is disabled
+[2019.04.14-19.05.44:103][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.14-19.05.45:208][  0]LogOcInput: OculusInput pre-init called
+[2019.04.14-19.05.49:575][  0]LogEngine: Initializing Engine...
+[2019.04.14-19.05.49:629][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.14-19.05.49:671][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.011 s
+[2019.04.14-19.05.50:780][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.14-19.05.51:494][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.14-19.05.51:963][  0]LogInit: XAudio2 using 'Динамики (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.14-19.05.52:671][  0]LogInit: FAudioDevice initialized.
+[2019.04.14-19.05.52:671][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.14-19.05.53:232][  0]LogDerivedDataCache: Saved boot cache 0.56s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.04.14-19.05.53:273][  0]LogInit: Texture streaming: Enabled
+[2019.04.14-19.05.54:580][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.14-19.05.54:580][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={E2E055E0-4414-8723-E606-ADB0B5E50AD5}
+[2019.04.14-19.05.55:478][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.14-19.05.56:296][  0]LogInit: Transaction tracking system initialized
+[2019.04.14-19.05.59:031][  0]BlueprintLog: New page: Editor Load
+[2019.04.14-19.06.05:768][  0]LocalizationService: Localization service is disabled
+[2019.04.14-19.06.14:711][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.14-19.06.14:711][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.14-19.06.15:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/CastleFortress414/data/Content/' took 0.03s
+[2019.04.14-19.06.23:958][  0]SourceControl: Source control is disabled
+[2019.04.14-19.06.23:979][  0]Cmd: MAP LOAD FILE="C:/Users/User/Desktop/CastleFortress414/data/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.14-19.06.23:979][  0]LogEditorServer: Warning: Can't find file 'C:/Users/User/Desktop/CastleFortress414/data/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.04.14-19.06.23:998][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.14-19.06.24:007][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8,853ms to complete.
+[2019.04.14-19.06.24:007][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.048
+[2019.04.14-19.06.28:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.14-19.06.28:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.14-19.06.28:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.14-19.06.28:221][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.14-19.06.28:414][  0]LogCollectionManager: Loaded 0 collections in 0.003554 seconds
+[2019.04.14-19.06.28:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/CastleFortress414/data/Saved/Collections/' took 0.01s
+[2019.04.14-19.06.28:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/CastleFortress414/data/Content/Developers/User/Collections/' took 0.00s
+[2019.04.14-19.06.28:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Desktop/CastleFortress414/data/Content/Collections/' took 0.01s
+[2019.04.14-19.06.28:799][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.14-19.06.28:813][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2732 classes and 659 folders.
+[2019.04.14-19.06.29:009][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.14-19.06.29:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:336][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:567][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.29:896][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.14-19.06.30:471][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.14-19.06.30:563][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.14-19.06.31:838][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.14-19.06.32:585][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.04.14-19.06.33:054][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.14-19.06.33:054][  0]LogLoad: (Engine Initialization) Total time: 101.23 seconds
+[2019.04.14-19.06.33:054][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.14-19.06.33:517][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.14-19.06.33:636][  0]LogSlate: Took 0.025591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.14-19.06.33:647][  0]LogSlate: Took 0.008172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.14-19.06.33:767][  0]LogSlate: Took 0.093826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.14-19.06.35:034][  1]LogRenderer: Reallocating scene render targets to support 964x360 Format 10 NumSamples 1 (Frame:1).
+[2019.04.14-19.06.35:060][  1]LogAssetRegistry: Asset discovery search completed in 83.2046 seconds
+[2019.04.14-19.06.35:080][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.14-19.06.35:080][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2019.04.14-19.06.38:569][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.14-19.06.38:769][193]LogRenderer: Reallocating scene render targets to support 1160x436 Format 10 NumSamples 1 (Frame:176).
+[2019.04.14-19.06.39:011][193]LogSlate: Took 0.009511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.14-19.06.51:737][375]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.14-19.07.06:492][375]LogTexture: Display: Building textures: T_TrimStone_H (AutoDXT, 2048X2048)
+[2019.04.14-19.07.06:492][375]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2019.04.14-19.07.06:492][375]LogStaticMesh: Loading a staticmesh component that is flag with override vertex color buffer, but the buffer is empty after loading(serializing) it. Resave the map to fix the component override vertex color data.
+[2019.04.14-19.07.11:374][375]LogTexture: Display: Building textures: T_TrimStone_N (BC5, 2048X2048)
+[2019.04.14-19.07.11:374][375]LogTexture: Display: Building textures: T_TrimStone_C (AutoDXT, 2048X2048)
+[2019.04.14-19.07.11:374][375]LogTexture: Display: Building textures: T_TrimStone_A (AutoDXT, 2048X2048)
+[2019.04.14-19.07.11:374][375]LogMaterial: Display: Missing cached shader map for material M_PropsMaster, compiling. 
+[2019.04.14-19.07.12:238][375]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.04.14-19.07.12:238][375]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.04.14-19.07.12:238][375]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.04.14-19.07.12:238][375]LogTexture: Display: Building textures: T_Door_Hardware_A (AutoDXT, 2048X2048)
+[2019.04.14-19.07.24:285][375]LogTexture: Display: Building textures: T_Door_Hardware_C (AutoDXT, 2048X2048)
+[2019.04.14-19.07.36:831][375]LogTexture: Display: Building textures: T_Moss_N (BC5, 4096X4096)
+[2019.04.14-19.07.36:831][375]LogTexture: Display: Building textures: T_Moss_C (AutoDXT, 4096X4096)
+[2019.04.14-19.07.37:389][375]LogTexture: Display: Building textures: T_Door_Hardware_N (BC5, 2048X2048)
+[2019.04.14-19.07.39:174][375]LogTexture: Display: Building textures: T_Moss_A (AutoDXT, 4096X4096)
+[2019.04.14-19.07.39:274][375]LogMaterial: Display: Missing cached shader map for material M_PropsMaster, compiling. 
+[2019.04.14-19.07.40:272][375]LogStaticMesh: Building static mesh SM_SingleDoor_Large_Door...
+[2019.04.14-19.07.42:915][375]LogStaticMesh: Built static mesh [2.64s] /Game/CastleFortress/Meshes/SM_SingleDoor_Large_Door.SM_SingleDoor_Large_Door
+[2019.04.14-19.07.43:240][375]LogStaticMesh: Building static mesh SM_WallTall_SingleDoor_Large...
+[2019.04.14-19.07.43:720][375]LogStaticMesh: Built static mesh [0.48s] /Game/CastleFortress/Meshes/SM_WallTall_SingleDoor_Large.SM_WallTall_SingleDoor_Large
+[2019.04.14-19.07.43:819][375]LogMaterial: Display: Missing cached shader map for material M_TextMaterial_Opaque_Emissive2, compiling. 
+[2019.04.14-19.07.43:918][375]LogMaterial: Display: Missing cached shader map for material M_PropsMaster, compiling. 
+[2019.04.14-19.08.44:927][375]LogShaderCompilers: Display: Shaders left to compile 525
+[2019.04.14-19.08.44:927][375]LogShaderCompilers: Display: Shaders left to compile 515
+[2019.04.14-19.08.44:927][375]LogShaderCompilers: Display: Shaders left to compile 505
+[2019.04.14-19.08.44:927][375]LogTexture: Display: Building textures: T_BrickWall_N (BC5, 2048X2048)
+[2019.04.14-19.08.44:928][375]LogTexture: Display: Building textures: T_BrickWall_C (AutoDXT, 2048X2048)
+[2019.04.14-19.08.44:928][375]LogShaderCompilers: Display: Shaders left to compile 495
+[2019.04.14-19.08.44:928][375]LogShaderCompilers: Display: Shaders left to compile 485
+[2019.04.14-19.08.44:928][375]LogShaderCompilers: Display: Shaders left to compile 475
+[2019.04.14-19.08.44:928][375]LogTexture: Display: Building textures: T_BrickWall_A (AutoDXT, 2048X2048)
+[2019.04.14-19.08.44:928][375]LogShaderCompilers: Display: Shaders left to compile 465
+[2019.04.14-19.08.44:928][375]LogShaderCompilers: Display: Shaders left to compile 455
+[2019.04.14-19.08.44:928][375]LogShaderCompilers: Display: Shaders left to compile 445
+[2019.04.14-19.08.44:928][375]LogTexture: Display: Building textures: T_Ice_Noise (AutoDXT, 1024X1024)
+[2019.04.14-19.08.44:928][375]LogTexture: Display: Building textures: T_Wood_N_3 (BC5, 4096X4096)
+[2019.04.14-19.08.44:928][375]LogMaterial: Display: Missing cached shader map for material M_VertexPaint_BrickWall_Master, compiling. 
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: T_Wood_C_3 (AutoDXT, 4096X4096)
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: T_Wood_A_3 (AutoDXT, 4096X4096)
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 494
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 484
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 474
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 464
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 454
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X128)
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: T_LittleGrass_A (AutoDXT, 2048X1024)
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: T_LittleGrass_N (BC5, 2048X1024)
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 444
+[2019.04.14-19.09.40:581][375]LogTexture: Display: Building textures: T_ArchStone_A (AutoDXT, 2048X2048)
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 434
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 424
+[2019.04.14-19.09.40:581][375]LogShaderCompilers: Display: Shaders left to compile 414
+[2019.04.14-19.09.40:581][375]LogMaterial: Display: Missing cached shader map for material M_PropsMaster, compiling. 
+[2019.04.14-19.09.40:856][375]LogStaticMesh: Building static mesh SM_Arch_Tall...
+[2019.04.14-19.09.41:271][375]LogTexture: Display: Building textures: T_WoodPlanks_N (BC5, 2048X2048)
+[2019.04.14-19.09.41:271][375]LogStaticMesh: Built static mesh [0.43s] /Game/CastleFortress/Meshes/SM_Arch_Tall.SM_Arch_Tall
+[2019.04.14-19.09.42:797][375]LogStaticMesh: Building static mesh SM_Battlement_Tower_Large...
+[2019.04.14-19.09.54:948][375]LogTexture: Display: Building textures: T_WoodPlanks_H (AutoDXT, 2048X2048)
+[2019.04.14-19.09.54:948][375]LogTexture: Display: Building textures: T_WoodPlanks_C (AutoDXT, 2048X2048)
+[2019.04.14-19.09.54:948][375]LogTexture: Display: Building textures: T_WoodPlanks_A (AutoDXT, 2048X2048)
+[2019.04.14-19.09.54:948][375]LogTexture: Display: Building textures: T_Metal_Decor_N (BC5, 4096X4096)
+[2019.04.14-19.09.54:948][375]LogStaticMesh: Built static mesh [12.17s] /Game/CastleFortress/Meshes/SM_Battlement_Tower_Large.SM_Battlement_Tower_Large
+[2019.04.14-19.09.55:928][375]LogStaticMesh: Building static mesh SM_Battlement_Medium_Stairs...
+[2019.04.14-19.10.09:555][375]LogTexture: Display: Building textures: T_Metal_Decor_C (AutoDXT, 4096X4096)
+[2019.04.14-19.10.09:555][375]LogTexture: Display: Building textures: T_Metal_Decor_A (AutoDXT, 4096X4096)
+[2019.04.14-19.10.09:555][375]LogStaticMesh: Built static mesh [13.65s] /Game/CastleFortress/Meshes/SM_Battlement_Medium_Stairs.SM_Battlement_Medium_Stairs
+[2019.04.14-19.10.10:294][375]LogStaticMesh: Building static mesh SM_Battlement_Tower_Medium_WithDoors...
+[2019.04.14-19.10.17:257][375]LogStaticMesh: Built static mesh [6.96s] /Game/CastleFortress/Meshes/SM_Battlement_Tower_Medium_WithDoors.SM_Battlement_Tower_Medium_WithDoors
+[2019.04.14-19.10.17:871][375]LogStaticMesh: Building static mesh SM_Battlement_Tower_Small...
+[2019.04.14-19.10.24:965][375]LogStaticMesh: Built static mesh [7.09s] /Game/CastleFortress/Meshes/SM_Battlement_Tower_Small.SM_Battlement_Tower_Small
+[2019.04.14-19.10.25:476][375]LogStaticMesh: Building static mesh SM_Battlement_Tower_Small_TwoDoors...
+[2019.04.14-19.10.32:708][375]LogStaticMesh: Built static mesh [7.25s] /Game/CastleFortress/Meshes/SM_Battlement_Tower_Small_TwoDoors.SM_Battlement_Tower_Small_TwoDoors
+[2019.04.14-19.10.32:895][375]LogStaticMesh: Building static mesh SM_BeamBrace...
+[2019.04.14-19.10.33:263][375]LogStaticMesh: Built static mesh [0.37s] /Game/CastleFortress/Meshes/SM_BeamBrace.SM_BeamBrace
+[2019.04.14-19.10.33:510][375]LogStaticMesh: Building static mesh SM_DoubleDoor_Large...
+[2019.04.14-19.10.34:363][375]LogStaticMesh: Built static mesh [0.86s] /Game/CastleFortress/Meshes/SM_DoubleDoor_Large.SM_DoubleDoor_Large
+[2019.04.14-19.10.35:015][375]LogStaticMesh: Building static mesh SM_DoubleDoor_Large_LeftDoor...
+[2019.04.14-19.10.37:725][375]LogStaticMesh: Built static mesh [2.71s] /Game/CastleFortress/Meshes/SM_DoubleDoor_Large_LeftDoor.SM_DoubleDoor_Large_LeftDoor
+[2019.04.14-19.10.38:287][375]LogStaticMesh: Building static mesh SM_DoubleDoor_Large_RightDoor...
+[2019.04.14-19.10.40:965][375]LogStaticMesh: Built static mesh [2.68s] /Game/CastleFortress/Meshes/SM_DoubleDoor_Large_RightDoor.SM_DoubleDoor_Large_RightDoor
+[2019.04.14-19.10.41:075][375]LogStaticMesh: Building static mesh SM_Brace...
+[2019.04.14-19.10.41:358][375]LogStaticMesh: Built static mesh [0.28s] /Game/CastleFortress/Meshes/SM_Brace.SM_Brace
+[2019.04.14-19.10.41:562][375]LogStaticMesh: Building static mesh SM_Bridge_Tiny...
+[2019.04.14-19.10.42:185][375]LogStaticMesh: Built static mesh [0.73s] /Game/CastleFortress/Meshes/SM_Bridge_Tiny.SM_Bridge_Tiny
+[2019.04.14-19.10.42:492][375]LogStaticMesh: Building static mesh SM_Building_4Way_Short_A...
+[2019.04.14-19.11.13:664][375]LogTexture: Display: Building textures: T_TrimStone2_N (BC5, 2048X2048)
+[2019.04.14-19.11.13:664][375]LogTexture: Display: Building textures: T_TrimStone2_C (AutoDXT, 2048X2048)
+[2019.04.14-19.11.13:664][375]LogTexture: Display: Building textures: T_TrimStone2_A (AutoDXT, 2048X2048)
+[2019.04.14-19.11.13:664][375]LogTexture: Display: Building textures: T_ArchStone_N (BC5, 2048X2048)
+[2019.04.14-19.11.13:664][375]LogTexture: Display: Building textures: T_ArchStone_H (AutoDXT, 2048X2048)
+[2019.04.14-19.11.13:664][375]LogTexture: Display: Building textures: T_ArchStone_C (AutoDXT, 2048X2048)
+[2019.04.14-19.11.13:664][375]LogStaticMesh: Built static mesh [31.17s] /Game/CastleFortress/Meshes/SM_Building_4Way_Short_A.SM_Building_4Way_Short_A
+[2019.04.14-19.11.13:978][375]LogStaticMesh: Building static mesh SM_Building_4Way_Short_B...
+[2019.04.14-19.11.37:646][375]LogShaderCompilers: Display: Shaders left to compile 574
+[2019.04.14-19.11.37:647][375]LogShaderCompilers: Display: Shaders left to compile 564
+[2019.04.14-19.11.37:647][375]LogShaderCompilers: Display: Shaders left to compile 554
+[2019.04.14-19.11.37:647][375]LogShaderCompilers: Display: Shaders left to compile 544
+[2019.04.14-19.11.37:647][375]LogShaderCompilers: Display: Shaders left to compile 534
+[2019.04.14-19.11.37:647][375]LogShaderCompilers: Display: Shaders left to compile 524
+[2019.04.14-19.11.37:647][375]LogShaderCompilers: Display: Shaders left to compile 514
+[2019.04.14-19.11.37:647][375]LogShaderCompilers: Display: Shaders left to compile 504
+[2019.04.14-19.11.37:647][375]LogStaticMesh: Built static mesh [23.67s] /Game/CastleFortress/Meshes/SM_Building_4Way_Short_B.SM_Building_4Way_Short_B
+[2019.04.14-19.11.37:986][375]LogStaticMesh: Building static mesh SM_Building_4Way_Tall_A...
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 494
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 484
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 474
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 464
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 454
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 444
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 434
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 424
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 414
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 404
+[2019.04.14-19.12.07:777][375]LogShaderCompilers: Display: Shaders left to compile 394
+[2019.04.14-19.12.07:777][375]LogStaticMesh: Built static mesh [29.79s] /Game/CastleFortress/Meshes/SM_Building_4Way_Tall_A.SM_Building_4Way_Tall_A
+[2019.04.14-19.12.08:144][375]LogStaticMesh: Building static mesh SM_Building_4Way_Tall_B...
+[2019.04.14-19.12.36:451][375]LogShaderCompilers: Display: Shaders left to compile 384
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 374
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 364
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 354
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 344
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 334
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 324
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 314
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 304
+[2019.04.14-19.12.36:452][375]LogShaderCompilers: Display: Shaders left to compile 294
+[2019.04.14-19.12.36:452][375]LogStaticMesh: Built static mesh [28.32s] /Game/CastleFortress/Meshes/SM_Building_4Way_Tall_B.SM_Building_4Way_Tall_B
+[2019.04.14-19.12.36:865][375]LogStaticMesh: Building static mesh SM_Building_4Way_Tall_C...
+[2019.04.14-19.13.01:329][375]LogShaderCompilers: Display: Shaders left to compile 284
+[2019.04.14-19.13.01:329][375]LogShaderCompilers: Display: Shaders left to compile 274
+[2019.04.14-19.13.01:329][375]LogShaderCompilers: Display: Shaders left to compile 264
+[2019.04.14-19.13.01:329][375]LogShaderCompilers: Display: Shaders left to compile 254
+[2019.04.14-19.13.01:329][375]LogShaderCompilers: Display: Shaders left to compile 244
+[2019.04.14-19.13.01:329][375]LogShaderCompilers: Display: Shaders left to compile 234
+[2019.04.14-19.13.01:329][375]LogShaderCompilers: Display: Shaders left to compile 224
+[2019.04.14-19.13.01:329][375]LogStaticMesh: Built static mesh [24.46s] /Game/CastleFortress/Meshes/SM_Building_4Way_Tall_C.SM_Building_4Way_Tall_C
+[2019.04.14-19.13.01:510][375]LogStaticMesh: Building static mesh SM_Building_Corner_Short_A...
+[2019.04.14-19.13.04:406][375]LogShaderCompilers: Display: Shaders left to compile 214
+[2019.04.14-19.13.04:406][375]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.04.14-19.13.04:406][375]LogStaticMesh: Built static mesh [2.90s] /Game/CastleFortress/Meshes/SM_Building_Corner_Short_A.SM_Building_Corner_Short_A
+[2019.04.14-19.13.04:553][375]LogStaticMesh: Building static mesh SM_Building_Corner_Short_B...
+[2019.04.14-19.13.25:154][375]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.04.14-19.13.25:154][375]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.04.14-19.13.25:154][375]LogShaderCompilers: Display: Shaders left to compile 174
+[2019.04.14-19.13.25:154][375]LogShaderCompilers: Display: Shaders left to compile 164
+[2019.04.14-19.13.25:154][375]LogShaderCompilers: Display: Shaders left to compile 154
+[2019.04.14-19.13.25:154][375]LogStaticMesh: Built static mesh [20.60s] /Game/CastleFortress/Meshes/SM_Building_Corner_Short_B.SM_Building_Corner_Short_B
+[2019.04.14-19.13.25:244][375]LogStaticMesh: Building static mesh SM_Building_Corner_Tall_A...
+[2019.04.14-19.13.28:166][375]LogShaderCompilers: Display: Shaders left to compile 144
+[2019.04.14-19.13.28:166][375]LogStaticMesh: Built static mesh [2.92s] /Game/CastleFortress/Meshes/SM_Building_Corner_Tall_A.SM_Building_Corner_Tall_A
+[2019.04.14-19.13.28:349][375]LogStaticMesh: Building static mesh SM_Building_Corner_Tall_B...
+[2019.04.14-19.13.48:957][375]LogShaderCompilers: Display: Shaders left to compile 134
+[2019.04.14-19.13.48:957][375]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.04.14-19.13.48:958][375]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.04.14-19.13.48:958][375]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.04.14-19.13.48:958][375]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.04.14-19.13.48:958][375]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.04.14-19.13.48:958][375]LogStaticMesh: Built static mesh [20.61s] /Game/CastleFortress/Meshes/SM_Building_Corner_Tall_B.SM_Building_Corner_Tall_B
+[2019.04.14-19.13.49:186][375]LogStaticMesh: Building static mesh SM_Building_Elbow_Short_A...
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.14-19.14.09:758][375]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.14-19.14.09:758][375]LogStaticMesh: Built static mesh [20.57s] /Game/CastleFortress/Meshes/SM_Building_Elbow_Short_A.SM_Building_Elbow_Short_A
+[2019.04.14-19.14.09:959][375]LogStaticMesh: Building static mesh SM_Building_Elbow_Short_B...
+[2019.04.14-19.14.30:908][375]LogStaticMesh: Built static mesh [20.97s] /Game/CastleFortress/Meshes/SM_Building_Elbow_Short_B.SM_Building_Elbow_Short_B
+[2019.04.14-19.14.31:083][375]LogStaticMesh: Building static mesh SM_Building_Elbow_Tall_A...
+[2019.04.14-19.14.50:792][375]LogStaticMesh: Built static mesh [19.76s] /Game/CastleFortress/Meshes/SM_Building_Elbow_Tall_A.SM_Building_Elbow_Tall_A
+[2019.04.14-19.14.50:904][375]LogStaticMesh: Building static mesh SM_Building_Elbow_Tall_B...
+[2019.04.14-19.15.08:163][375]LogStaticMesh: Built static mesh [17.26s] /Game/CastleFortress/Meshes/SM_Building_Elbow_Tall_B.SM_Building_Elbow_Tall_B
+[2019.04.14-19.15.08:266][375]LogStaticMesh: Building static mesh SM_Building_End_Short_A...
+[2019.04.14-19.15.25:160][375]LogStaticMesh: Built static mesh [16.89s] /Game/CastleFortress/Meshes/SM_Building_End_Short_A.SM_Building_End_Short_A
+[2019.04.14-19.15.25:239][375]LogStaticMesh: Building static mesh SM_Building_End_Short_B...
+[2019.04.14-19.15.32:399][375]LogStaticMesh: Built static mesh [7.16s] /Game/CastleFortress/Meshes/SM_Building_End_Short_B.SM_Building_End_Short_B
+[2019.04.14-19.15.32:490][375]LogStaticMesh: Building static mesh SM_Building_End_Short_C...
+[2019.04.14-19.15.39:616][375]LogStaticMesh: Built static mesh [7.13s] /Game/CastleFortress/Meshes/SM_Building_End_Short_C.SM_Building_End_Short_C
+[2019.04.14-19.15.39:796][375]LogStaticMesh: Building static mesh SM_Building_End_Tall_A...
+[2019.04.14-19.15.50:331][375]LogStaticMesh: Built static mesh [10.53s] /Game/CastleFortress/Meshes/SM_Building_End_Tall_A.SM_Building_End_Tall_A
+[2019.04.14-19.15.50:421][375]LogStaticMesh: Building static mesh SM_Building_End_Tall_B...
+[2019.04.14-19.15.56:898][375]LogStaticMesh: Built static mesh [6.48s] /Game/CastleFortress/Meshes/SM_Building_End_Tall_B.SM_Building_End_Tall_B
+[2019.04.14-19.15.56:982][375]LogStaticMesh: Building static mesh SM_Building_End_Tall_C...
+[2019.04.14-19.16.09:590][375]LogStaticMesh: Built static mesh [12.61s] /Game/CastleFortress/Meshes/SM_Building_End_Tall_C.SM_Building_End_Tall_C
+[2019.04.14-19.16.09:966][375]LogStaticMesh: Building static mesh SM_Building_Large_Elbow_Tall...
